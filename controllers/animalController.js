@@ -22,9 +22,28 @@ const getAnimals = (req, res) => {
             taxonomy: { family: "bird", kingdom: "sky", order: "first" }
         },
         {
-            name: "MIDAKUA",
+            name: "Chilada baboon",
             diet: "diet",
-            image: "https://cdn.britannica.com/94/494-004-BAA096C7/Fallow-deer.jpg",
+            image: "https://www.oliberte.com/pages/wp-content/uploads/2017/04/Gelada-Pavian-1024x768.jpg",
+            lifespan: "lifespan",
+            location: "Ethiopia",
+            speed: { imperial: "imperial", metric: "high" },
+            taxonomy: { family: "mamals", kingdom: "mountains", order: "second" }
+        },
+        ,
+        {
+            name: "Chilada baboon",
+            diet: "diet",
+            image: "https://www.oliberte.com/pages/wp-content/uploads/2017/04/Gelada-Pavian-1024x768.jpg",
+            lifespan: "lifespan",
+            location: "Ethiopia",
+            speed: { imperial: "imperial", metric: "high" },
+            taxonomy: { family: "mamals", kingdom: "mountains", order: "second" }
+        },
+        {
+            name: "Red Wolf",
+            diet: "diet",
+            image: "https://www.amazingethiopia.com/media/k2/items/cache/47e29f9fe96a1771642fb05ac8a8fd00_XL.jpg",
             lifespan: "lifespan",
             location: "Ethiopia",
             speed: { imperial: "imperial", metric: "high" },
