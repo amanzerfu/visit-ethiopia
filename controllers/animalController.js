@@ -30,7 +30,6 @@ const getAnimals = (req, res) => {
             speed: { imperial: "imperial", metric: "high" },
             taxonomy: { family: "mamals", kingdom: "mountains", order: "second" }
         },
-        ,
         {
             name: "Chilada baboon",
             diet: "diet",
